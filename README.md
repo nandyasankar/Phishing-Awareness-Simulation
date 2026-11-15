@@ -1,5 +1,6 @@
 # Phishing Awareness Simulation
 
+
 ## 📌 Overview
 Phishing Awareness Simulation is a cybersecurity awareness project designed to educate users about phishing attacks through realistic simulations. The project replicates common phishing scenarios, allowing users to identify malicious emails, suspicious links, and social engineering tactics in a safe and controlled environment.
 
