@@ -33,7 +33,6 @@ Phishing Awareness Simulation is a cybersecurity awareness project designed to e
 5. Awareness metrics help measure security preparedness.
 
 ##🔄 Workflow
-
 User Receives Email
          ↓
 Examines Sender Details
