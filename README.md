@@ -53,14 +53,8 @@ Contributions, suggestions, and improvements are welcome. Feel free to fork the 
 ## 📄 License
 This project is licensed under the MIT License.
 
+## 📄 Documentation
 
-## 📜 Certificates
-
-- [Project Completion Certificate](docs/Project_Completion_Certificate.pdf)
-- [Internship Certificate](docs/Internship_Certificate.pdf)
-
- ## 📄 Documentation
-
-👉 **[Open Project Report](docs/Phishing_Awareness_Simulation_Report.pdf)**
+Project Report
 
 
