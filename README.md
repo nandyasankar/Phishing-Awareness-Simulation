@@ -32,6 +32,20 @@ Phishing Awareness Simulation is a cybersecurity awareness project designed to e
 4. Feedback and recommendations are provided based on user actions.
 5. Awareness metrics help measure security preparedness.
 
+##🔄 Workflow
+
+User Receives Email
+         ↓
+Examines Sender Details
+         ↓
+Checks Links & Attachments
+         ↓
+Identifies Red Flags
+         ↓
+Reports Suspicious Email
+         ↓
+Security Awareness Improved
+
 ## 🔒 Learning Outcomes
 By completing this simulation, users will learn how to:
 - Identify phishing indicators.
